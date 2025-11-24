@@ -1,5 +1,7 @@
 # 💫 About Me:
-Flutter Developer specializing in building modern, responsive, and scalable mobile applications. Skilled in state management, RESTful APIs, and Firebase services. Passionate about clean architecture, performance optimization, and crafting pixel-perfect user interfaces with seamless user experiences.
+I’m a Flutter Developer focused on building modern, responsive, and scalable mobile applications with clean architecture and high-performance code. I specialize in state management, RESTful API integration, Firebase services, and local databases like Hive and Isar. I enjoy crafting smooth, pixel-perfect user interfaces that deliver intuitive and seamless user experiences across different devices.
+
+I’m passionate about writing maintainable and testable code, applying design patterns, and optimizing app performance to achieve a stable and reliable product. I love transforming complex ideas into simple, elegant solutions and continuously exploring new Flutter techniques to enhance the quality, efficiency, and usability of every application I create.
 
 
 ## 🌐 Socials:
