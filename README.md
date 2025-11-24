@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter Developer | Crafting modern, responsive, and scalable mobile apps. Passionate about clean architecture, state management, and UI perfection.
+Flutter Developer specializing in building modern, responsive, and scalable mobile applications. Skilled in state management, RESTful APIs, and Firebase services. Passionate about clean architecture, performance optimization, and crafting pixel-perfect user interfaces with seamless user experiences.
 
 
 ## 🌐 Socials:
